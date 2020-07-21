@@ -1,4 +1,4 @@
 package com.VyTruck.pages;
 
-public class testPage {
+public class testPage1 {
 }

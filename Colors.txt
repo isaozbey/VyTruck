@@ -1,10 +1,10 @@
 Color:
 red
 Blue
-Orange (Test Color Failed)
+Orange (Test Coloro Failed)
 BROWN
 ORANGE
-White
-Purple
-Yellow
+Apricot
+
+
 

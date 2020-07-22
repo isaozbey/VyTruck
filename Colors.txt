@@ -1,0 +1,10 @@
+Color:
+red
+Blue
+Orange (Test Color Failed)
+BROWN
+ORANGE
+White
+Purple
+Yellow
+
